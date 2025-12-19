@@ -39,7 +39,7 @@ Because of this, **malicious extensions** can steal data or spy on users.
 
 The screenshot below shows all extensions installed in the browser **before analysis**.
 
-![Installed Chrome Extensions](screenshots/extensions-before.png)
+![https://github.com/BhagyaDharennavar/browser-extension-risk-analysis/blob/main/Screenshot%202025-12-19%20150635.png)
 
 ### Screenshot Explanation:
 From the extensions manager, I could see:
